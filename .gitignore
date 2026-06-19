@@ -34,3 +34,5 @@ tools/VideoTools/MouseMove.exe
 doc/linux-private.md
 *.cfe
 xddExitCodePath.txt
+Agents.md
+.agents/*
