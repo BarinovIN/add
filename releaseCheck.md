@@ -4,6 +4,7 @@
 
 - Выполнить разборку всех файлов на исходники
 - Изменить номер версии в строке `ВерсияПакета = "Х.Х.Х";` в файле [packagedef](./packagedef)
+(Изменение номеров версий во всех файлах можно выполнить через `oscript tasks/set-version.os НоваяВерсия`)
 - Изменить номер версии в методе `ПолучитьВерсиюОбработки()` [модуля обработки](./epf/bddRunner/bddRunner/Ext/ObjectModule.bsl) `bddRunner.epf`
 - Изменить номер версии в методе `Версия()` [модуля обработки](./epf/xddTestRunner/xddTestRunner/Ext/ObjectModule.bsl) `xddTestRunner.epf`
 - Изменить номер версии в методе `Версия()` [модуля обработки](./Plugins/СериализаторMXL/СериализаторMXL/Ext/ObjectModule.bsl) `Plugins/СериализаторMXL.epf`
